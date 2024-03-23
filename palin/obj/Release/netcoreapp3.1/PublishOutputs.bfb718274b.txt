@@ -1,0 +1,7 @@
+D:\si\vs2022\repos\palin\palin\obj\Release\netcoreapp3.1\PubTmp\Out\palin.exe
+D:\si\vs2022\repos\palin\palin\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\si\vs2022\repos\palin\palin\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\si\vs2022\repos\palin\palin\obj\Release\netcoreapp3.1\PubTmp\Out\palin.dll
+D:\si\vs2022\repos\palin\palin\obj\Release\netcoreapp3.1\PubTmp\Out\palin.deps.json
+D:\si\vs2022\repos\palin\palin\obj\Release\netcoreapp3.1\PubTmp\Out\palin.runtimeconfig.json
+D:\si\vs2022\repos\palin\palin\obj\Release\netcoreapp3.1\PubTmp\Out\palin.pdb
